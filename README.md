@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sayed-Minhal
-- 👀 I’m interested in JavaScript/Front-end development
-- 🌱 I’m currently Technical Lead and Senior Consultant 
+- 👋 Hi, I’m Sayed Minhal
+- 👀 I’m MERN Stack developer and Technical Architect
+- 🌱 I've spent creating web-application for almost 2 decades on Front-end/UI side   
 - 💞️ I’m looking to collaborate on JavaScript related stuff
 
 <!---
